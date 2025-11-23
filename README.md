@@ -1,6 +1,6 @@
 # Hydro-Core
 
-HydroCore was specifically made for using Ethernet and as well as Pixhawk with my mobile phone, because I was working on an underwater drone project. There, I needed, like, mobile—if I can connect the internet with my mobile phone and the Pixhawk Mavlink telemetry connection with my mobile phone, it will be so good, because mobile phones have better capability—like power capability, power, you know. Mobile phones have a lot better options than any other things. And also, I can use its mobile phone’s own, you know, camera for video dealing stuff. And from that, I was inspired to make this board, which basically converts Ethernet to USB and converts UART to USB, and those are connected with a USB hub IC, which combines to use one upstream output, which then connects to my mobile phone.
+HydroCore was specifically made for using Ethernet and as well as Pixhawk with my mobile phone, because I was working on an underwater drone project. There, I needed, like, mobile—if I can connect the internet with my mobile phone and the Pixhawk Mavlink telemetry connection with my mobile phone, it will be so good, because mobile phones have better capability—like power capability, processing power, using camera for live feed and above all the low power workload. And from that, I was inspired to make this board, which basically converts Ethernet to USB and converts UART to USB, and those are connected with a USB hub IC, which combines to use one upstream output, which then connects to my mobile phone.
 
 # PCB Design
 
