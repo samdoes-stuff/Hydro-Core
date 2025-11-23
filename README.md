@@ -25,3 +25,14 @@ Another fun fact is, because my mobile phone will be connected to the board all 
 Challenges and Learning
 
 And that is all for this PCB. And in this PCB, it was really a challenge for me, because it was my first time designing such a board, and I wanted it to be a very compact board. So I needed to work with so many connections, because there were so many connections. I had to learn about layers, I had to learn about ground cores, thermal relief pads, thermal relief connections, you know, there are vias, what is the impedance between the wire—I had to learn so many things. So it was quite a learning project for me, and I'm really grateful.
+
+<img width="594" height="378" alt="Screenshot 2025-11-23 150526" src="https://github.com/user-attachments/assets/ccb44061-4ad9-4ee4-943d-7ca2cec28978" />
+
+<img width="784" height="532" alt="Screenshot 2025-11-23 150317" src="https://github.com/user-attachments/assets/fffed834-0739-4b86-b307-1adb39747df8" />
+
+<img width="878" height="686" alt="Screenshot 2025-11-23 150328" src="https://github.com/user-attachments/assets/967b2066-fc77-4833-a972-f7178046001e" />
+
+<img width="683" height="581" alt="Screenshot 2025-11-22 011315" src="https://github.com/user-attachments/assets/4edbb809-cd56-4dc0-b078-950a1e2ba269" />
+
+
+
