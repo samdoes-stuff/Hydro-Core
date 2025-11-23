@@ -1,0 +1,9 @@
+Power Track Width : 1.0mm
+Normal Track Width : .2mm
+Layer: 6
+1. Top
+2. GND
+3. 5V(Vbus)
+4. 3V3(VDD)
+5. 1.0V
+6. Bottom Layer
