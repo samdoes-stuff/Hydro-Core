@@ -31,9 +31,11 @@ And that is all for this PCB. And in this PCB, it was really a challenge for me,
 
 <img width="594" height="378" alt="Screenshot 2025-11-23 150526" src="https://github.com/user-attachments/assets/ccb44061-4ad9-4ee4-943d-7ca2cec28978" />
 
-<img width="784" height="532" alt="Screenshot 2025-11-23 150317" src="https://github.com/user-attachments/assets/fffed834-0739-4b86-b307-1adb39747df8" />
+<img width="801" height="514" alt="Screenshot 2025-11-27 141856" src="https://github.com/user-attachments/assets/ba171e2e-1703-4410-b6e1-7461d1d8b7a5" />
 
-<img width="878" height="686" alt="Screenshot 2025-11-23 150328" src="https://github.com/user-attachments/assets/967b2066-fc77-4833-a972-f7178046001e" />
+
+<img width="760" height="518" alt="image" src="https://github.com/user-attachments/assets/3d5d9bdc-eb80-4afd-93e7-53fd2ad9d3b2" />
+
 
 <img width="683" height="581" alt="Screenshot 2025-11-22 011315" src="https://github.com/user-attachments/assets/4edbb809-cd56-4dc0-b078-950a1e2ba269" />
 
