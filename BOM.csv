@@ -46,4 +46,4 @@ ID,Name,Supplier,Quantity,MOQ,Manufacturer Part,Unit Price,Extended,Supplier Par
 44,12MHz,",,",1,,S47SMD12.000M20PF20R30B3,,,C5346045
 45,PCB,,1,5,JLCPCB,$34.49,$0(Free Coupon),
 46,Shipping,,,,JLCPCB + LCSC,$9.28 + $15.55,$24.83,
-47,Total,,,,,,$51.55
+
